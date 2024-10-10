@@ -56,6 +56,8 @@ The following Pandas commands were explored during this challenge:
 
 - `.columns` – Access or set the column labels of the DataFrame.
 
+- `.sort_values()` – Sort the DataFrame by one or more columns, either in ascending or descending order.
+
 ---
 
 ## Installation
